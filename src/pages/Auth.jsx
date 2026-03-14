@@ -86,7 +86,7 @@ function AuthShell({ children }) {
         </div>
 
         <p style={{ textAlign: 'center', fontFamily: 'JetBrains Mono', fontSize: 9, letterSpacing: '0.12em', color: 'var(--text-fog)', marginTop: 20 }}>
-          THE OILFATHER © 2025 — ALL STOCK MOVEMENTS LOGGED
+          THE OILFATHER © 2026 — ALL STOCK MOVEMENTS LOGGED
         </p>
       </div>
     </div>
